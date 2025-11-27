@@ -2,3 +2,13 @@ Versio 1:                                                                       
 V1: Voidaan lisätä kysely
 V2: Kyselyyn voi lisätä kysymyksiä
 V7: Kyselyn voi katsoa
+
+Versio 2:
+V7: Kyselyn voi katsoa (mutta ei lähettää) front-end:ssä
+V4: Kyselyyn anttetut vastaukset voi tallentaa (REST-palveluna)
+V13: Valmiiseen HH-esimerkkikyselyyn voi tutustua
+
+Versio 3:
+V8: Kyselyyn voi vastata (vain tekstikysymykset, front-end)
+V10: Kyselyn vastausten tulosraportteja voi katsoa (teksikysymsten vastaukset, REST + front-end)
+(V3.1: Kyselyn kysymykset voi olla tyyppiä avoin teksti ja radiobutton-monivalinta) 
