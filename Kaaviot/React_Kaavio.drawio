@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
+  <diagram name="Sivu-1" id="g0J0byM8sHLMTaEBJ4h_">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-3" edge="1" parent="1" source="L96qRP1RbiCHd-5Jlrxw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="L96qRP1RbiCHd-5Jlrxw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-7" edge="1" parent="1" source="L96qRP1RbiCHd-5Jlrxw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="L96qRP1RbiCHd-5Jlrxw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-10" edge="1" parent="1" source="L96qRP1RbiCHd-5Jlrxw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="L96qRP1RbiCHd-5Jlrxw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&amp;lt;App&amp;gt;&lt;div&gt;Router&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-5" edge="1" parent="1" source="L96qRP1RbiCHd-5Jlrxw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="L96qRP1RbiCHd-5Jlrxw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Kotisivu&lt;div&gt;&quot;/&quot;&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="UusiKysely&lt;div&gt;&quot;/uusikysely&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Kyselyt&lt;div&gt;&quot;/kyselyt&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="fetch&lt;div&gt;GET/kyselyt&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="399" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Kysely&lt;div&gt;&quot;/kyselyt/:id&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-13" edge="1" parent="1" source="L96qRP1RbiCHd-5Jlrxw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="L96qRP1RbiCHd-5Jlrxw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="fetch&lt;div&gt;GET/kyselyt/:id&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="555" y="399" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="Käyttäjä vastaa&lt;div&gt;POST/vastaukset&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="555" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Tulosraportti&lt;div&gt;&quot;/tulosraportti/:id&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="L96qRP1RbiCHd-5Jlrxw-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="fetch&lt;div&gt;GET/kyselyt/:id + GET /vastaukset&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="360" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
